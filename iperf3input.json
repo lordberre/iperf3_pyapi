@@ -1,0 +1,19 @@
+{
+            "iperf3_settings": {
+                "ip": "127.0.0.1",
+                "port": 5201,
+		"reverse": true,
+		"sessions": 5,
+		"ip_version": 4,
+		"duration": 15,
+		"init": "start"
+        },
+            "cm_info": {
+   		"remoteid": "AA:BB:CC:DD:EE:FF",
+    		"somemac": "AA:BB:CC:DD:EE:FF",
+	        "cmts": "xxx-1",
+    		"model": "5430D"
+        },
+    "uuid": "ca0197ae-a284-43f8-a041-bd1b025419da",
+    "timestamp": "2018-03-17T15:58:11Z"
+}
